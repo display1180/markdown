@@ -20,3 +20,5 @@ const box = document;
 ```
 
 - 네이버 : <https://www.naver.com/>
+
+![배경이미지](/img/pic.jpg)
