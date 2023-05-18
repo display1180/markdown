@@ -22,3 +22,5 @@ const box = document;
 - 네이버 : <https://www.naver.com/>
 
 ![배경이미지](/img/pic.jpg)
+
+<img src='img/pic.jpg' width="300px" height="300px" alt="aa">
