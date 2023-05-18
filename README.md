@@ -23,4 +23,4 @@ const box = document;
 
 ![배경이미지](/img/pic.jpg)
 
-<img src='img/pic.jpg' width="300px" height="300px" alt="aa">
+<img src='img/pic.jpg' width='300px' alt="aa">
