@@ -14,3 +14,7 @@ main {
 
 
 ```
+
+```javascript
+const box = document;
+```
